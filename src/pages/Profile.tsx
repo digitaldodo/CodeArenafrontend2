@@ -1,5 +1,5 @@
 import React from 'react';
-import { User, Calendar, Code, Star, Trophy, Edit2, Settings, Video, MessageCircle, GitCompare } from 'lucide-react';
+import { User, Calendar, Code, Star, Trophy, Edit2, Settings, Video, MessageCircle, GitCompare, Users } from 'lucide-react';
 
 const Profile = () => {
   const achievements = [
